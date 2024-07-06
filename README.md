@@ -1,5 +1,5 @@
-# threejj
-
+# Eiwen threeJS
+# 
 ## Project setup
 ```
 npm install
